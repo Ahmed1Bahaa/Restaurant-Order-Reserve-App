@@ -1,10 +1,11 @@
-🍔 Food Ordering & Reservation App (Flutter)
+🍔 Food Ordering & Reservation App 
 
 A modern food ordering and table reservation mobile application built with Flutter. The app provides a smooth and intuitive user experience, allowing users to browse meals, manage their cart, and reserve tables easily.
 
-⸻
+
 
 🚀 Features
+
 	•	🍔 Browse a variety of meals with images, ratings, and prices
 	•	🔍 Search functionality for quick item discovery
 	•	🛒 Add/remove items and manage quantities in the cart
@@ -12,7 +13,7 @@ A modern food ordering and table reservation mobile application built with Flutt
 	•	📅 Table reservation with date, time, and guest selection
 	•	🎨 Clean, minimal UI with consistent design and smooth interactions
 
-⸻
+
 
 ⚙️ Tech Stack
 	•	Flutter & Dart
