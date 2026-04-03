@@ -16,6 +16,7 @@ A modern food ordering and table reservation mobile application built with Flutt
 
 
 ⚙️ Tech Stack
+
 	•	Flutter & Dart
 	•	State management using setState()
 	•	Custom UI components and responsive layouts
